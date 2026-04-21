@@ -32,9 +32,9 @@ nav a:hover {
     text-align: center;
 }
 
-img {
-    width: 300px;
-    border-radius: 10px;
+.main-img {
+  width: 400px;
+  border-radius: 10px;
 }
 
 footer {
