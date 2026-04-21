@@ -60,7 +60,18 @@ nav a:hover {
     border-top: 5px solid #4a90e2;
     transition: 0.3s;
 }
+.card {
+    text-align: left;
+}
 
+.card a {
+    color: #4a90e2;
+    text-decoration: none;
+}
+
+.card a:hover {
+    text-decoration: underline;
+}
 .card img {
     width: 100%;
     border-radius: 10px;
